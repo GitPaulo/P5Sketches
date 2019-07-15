@@ -1,5 +1,5 @@
 # P5Sketches
-Algoritmic sketches using P5.js. As I explore javascript and p5.js I will add things here.
+Algorihtmic sketches using [P5.js](https://p5js.org/). As I explore JavaScript and p5.js I will add things here.
 
 # Examples
 ![](https://i.gyazo.com/4938fe993f61b6c47936e6f8c4fe6275.png)
